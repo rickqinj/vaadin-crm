@@ -1,7 +1,6 @@
 # Project Base for Vaadin and Spring Boot
 
-This is an example project that can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+Vaadin 14.4.6 integrates Spring Boot 2. Project template is used to build new projects.
 
 
 ## Running the Application
